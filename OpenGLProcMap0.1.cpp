@@ -11,6 +11,10 @@
 * Brief: This program uses openGL to create a random map with animated water
 */
 
+
+/*TRING TO MAKE CHANGES SHOW UP ON GITHUB*/
+
+
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
 
